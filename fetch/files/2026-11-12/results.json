@@ -1,0 +1,44 @@
+[
+ {
+  "file": "File:Hulk_Hogan_Clearwater_Beach_2013.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hulk_Hogan_Clearwater_Beach_2013.jpg",
+  "path": "fetch/files/2026-11-12/Hulk_Hogan_Clearwater_Beach_2013.jpg",
+  "status": "ok",
+  "bytes": 1233321
+ },
+ {
+  "file": "File:The_Ritz-Carlton_New_York,_Central_Park_-_2026_(55283844589).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/The_Ritz-Carlton_New_York%2C_Central_Park_-_2026_%2855283844589%29.jpg",
+  "path": "fetch/files/2026-11-12/The_Ritz-Carlton_New_York__Central_Park_-_2026__55283844589_.jpg",
+  "status": "ok",
+  "bytes": 7140128
+ },
+ {
+  "file": "File:William_Henry_Vanderbilt.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/William_Henry_Vanderbilt.jpg",
+  "path": "fetch/files/2026-11-12/William_Henry_Vanderbilt.jpg",
+  "status": "ok",
+  "bytes": 1179287
+ },
+ {
+  "file": "File:Palm_Island_entrance.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Palm_Island_entrance.jpg",
+  "path": "fetch/files/2026-11-12/Palm_Island_entrance.jpg",
+  "status": "ok",
+  "bytes": 1742172
+ },
+ {
+  "file": "File:20210626_31_Long_Island_City_(51626816378).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/20210626_31_Long_Island_City_%2851626816378%29.jpg",
+  "path": "fetch/files/2026-11-12/20210626_31_Long_Island_City__51626816378_.jpg",
+  "status": "ok",
+  "bytes": 3679793
+ },
+ {
+  "file": "File:Background_music_-_Liftoff.ogg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Background_music_-_Liftoff.ogg",
+  "path": "fetch/files/2026-11-12/Background_music_-_Liftoff.ogg",
+  "status": "ok",
+  "bytes": 3793201
+ }
+]
