@@ -1,0 +1,58 @@
+[
+ {
+  "file": "File:Juwan_Howard_(50816296327).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Juwan_Howard_%2850816296327%29.jpg",
+  "path": "fetch/files/2026-11-14/Juwan_Howard__50816296327_.jpg",
+  "status": "ok",
+  "bytes": 1459199
+ },
+ {
+  "file": "File:Juwan_Howard_Michigan_(cropped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Juwan_Howard_Michigan_%28cropped%29.jpg",
+  "path": "fetch/files/2026-11-14/Juwan_Howard_Michigan__cropped_.jpg",
+  "status": "ok",
+  "bytes": 3549793
+ },
+ {
+  "file": "File:Dave_Portnoy_at_2023_Army-Navy_Game_(53393653320).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dave_Portnoy_at_2023_Army-Navy_Game_%2853393653320%29.jpg",
+  "path": "fetch/files/2026-11-14/Dave_Portnoy_at_2023_Army-Navy_Game__53393653320_.jpg",
+  "status": "ok",
+  "bytes": 1860372
+ },
+ {
+  "file": "File:Claremont_Pacifica_Apartments_-_panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Claremont_Pacifica_Apartments_-_panoramio.jpg",
+  "path": "fetch/files/2026-11-14/Claremont_Pacifica_Apartments_-_panoramio.jpg",
+  "status": "ok",
+  "bytes": 678694
+ },
+ {
+  "file": "File:Claremont_Pacifica_Apartments_-_panoramio_(1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Claremont_Pacifica_Apartments_-_panoramio_%281%29.jpg",
+  "path": "fetch/files/2026-11-14/Claremont_Pacifica_Apartments_-_panoramio__1_.jpg",
+  "status": "ok",
+  "bytes": 663383
+ },
+ {
+  "file": "File:Zuckerberg-Jourov\u00e1_meeting_(2020).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Zuckerberg-Jourov%C3%A1_meeting_%282020%29.jpg",
+  "path": "fetch/files/2026-11-14/Zuckerberg-Jourov__meeting__2020_.jpg",
+  "status": "ok",
+  "bytes": 1426223
+ },
+ {
+  "file": "File:Light_house_at_Brant_point_in_Nantucket_harbor.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Light_house_at_Brant_point_in_Nantucket_harbor.jpg",
+  "path": "fetch/files/2026-11-14/Light_house_at_Brant_point_in_Nantucket_harbor.jpg",
+  "status": "ok",
+  "bytes": 2153104
+ },
+ {
+  "file": "File:Cliffs_of_Moher_drone-video.webm",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cliffs_of_Moher_drone-video.webm/1920px-Cliffs_of_Moher_drone-video.webm",
+  "path": "fetch/files/2026-11-14/Cliffs_of_Moher_drone-video.webm",
+  "status": "http 400",
+  "bytes": 0
+ }
+]
