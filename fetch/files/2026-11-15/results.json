@@ -1,0 +1,37 @@
+[
+ {
+  "file": "File:Hassan_Whiteside_(cropped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Hassan_Whiteside_%28cropped%29.jpg",
+  "path": "fetch/files/2026-11-15/Hassan_Whiteside__cropped_.jpg",
+  "status": "ok",
+  "bytes": 1265391
+ },
+ {
+  "file": "File:Hassan_Whiteside_2016.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hassan_Whiteside_2016.jpg",
+  "path": "fetch/files/2026-11-15/Hassan_Whiteside_2016.jpg",
+  "status": "ok",
+  "bytes": 780691
+ },
+ {
+  "file": "File:Cardinals_QB_Kyler_Murray_winds_up.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cardinals_QB_Kyler_Murray_winds_up.jpg",
+  "path": "fetch/files/2026-11-15/Cardinals_QB_Kyler_Murray_winds_up.jpg",
+  "status": "ok",
+  "bytes": 2020524
+ },
+ {
+  "file": "File:Kyler_Murray_in_huddle_(50369475187).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kyler_Murray_in_huddle_%2850369475187%29.jpg",
+  "path": "fetch/files/2026-11-15/Kyler_Murray_in_huddle__50369475187_.jpg",
+  "status": "ok",
+  "bytes": 3347086
+ },
+ {
+  "file": "File:Aspen,_Colorado_in_autumn.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Aspen%2C_Colorado_in_autumn.JPG",
+  "path": "fetch/files/2026-11-15/Aspen__Colorado_in_autumn.JPG",
+  "status": "ok",
+  "bytes": 11250212
+ }
+]
