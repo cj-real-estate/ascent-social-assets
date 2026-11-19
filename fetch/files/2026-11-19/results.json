@@ -1,0 +1,44 @@
+[
+ {
+  "file": "File:Victorian_facades_on_16th_Street_in_San_Francisco.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Victorian_facades_on_16th_Street_in_San_Francisco.jpg",
+  "path": "fetch/files/2026-11-19/Victorian_facades_on_16th_Street_in_San_Francisco.jpg",
+  "status": "ok",
+  "bytes": 14601979
+ },
+ {
+  "file": "File:GDC_2016_awards_16-20_42_56-01-7D2_0739_(25551805810).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GDC_2016_awards_16-20_42_56-01-7D2_0739_%2825551805810%29.jpg",
+  "path": "fetch/files/2026-11-19/GDC_2016_awards_16-20_42_56-01-7D2_0739__25551805810_.jpg",
+  "status": "ok",
+  "bytes": 1258143
+ },
+ {
+  "file": "File:Michael_Andretti_(53785910028).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Michael_Andretti_%2853785910028%29.jpg",
+  "path": "fetch/files/2026-11-19/Michael_Andretti__53785910028_.jpg",
+  "status": "ok",
+  "bytes": 7384225
+ },
+ {
+  "file": "File:50_years_of_Landsat-_Denver_(SVS31196_-_denver_landsat_1972-2022_v1_2160p2).webm",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/50_years_of_Landsat-_Denver_%28SVS31196_-_denver_landsat_1972-2022_v1_2160p2%29.webm",
+  "path": "fetch/files/2026-11-19/50_years_of_Landsat-_Denver__SVS31196_-_denver_landsat_1972-2022_v1_2160p2_.webm",
+  "status": "ok",
+  "bytes": 23280965
+ },
+ {
+  "file": "File:Google_Timelapse-_Denver,_Colorado.webm",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Google_Timelapse-_Denver%2C_Colorado.webm",
+  "path": "fetch/files/2026-11-19/Google_Timelapse-_Denver__Colorado.webm",
+  "status": "ok",
+  "bytes": 29906571
+ },
+ {
+  "file": "File:Flying_a_drone_in_New_Mexico.webm",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Flying_a_drone_in_New_Mexico.webm",
+  "path": "fetch/files/2026-11-19/Flying_a_drone_in_New_Mexico.webm",
+  "status": "ok",
+  "bytes": 46568409
+ }
+]
