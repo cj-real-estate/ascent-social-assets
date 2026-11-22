@@ -1,0 +1,37 @@
+[
+ {
+  "file": "File:Kevin_Gausman_(52065414862).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Kevin_Gausman_%2852065414862%29.jpg",
+  "path": "fetch/files/2026-11-22b/Kevin_Gausman__52065414862_.jpg",
+  "status": "ok",
+  "bytes": 25241022
+ },
+ {
+  "file": "File:Jake_Johnson_by_Gage_Skidmore.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Jake_Johnson_by_Gage_Skidmore.jpg",
+  "path": "fetch/files/2026-11-22b/Jake_Johnson_by_Gage_Skidmore.jpg",
+  "status": "ok",
+  "bytes": 5396829
+ },
+ {
+  "file": "File:Frank_McCourt_at_Collision_2024_(cropped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Frank_McCourt_at_Collision_2024_%28cropped%29.jpg",
+  "path": "fetch/files/2026-11-22b/Frank_McCourt_at_Collision_2024__cropped_.jpg",
+  "status": "ok",
+  "bytes": 769779
+ },
+ {
+  "file": "File:Harvard_Square_(54941166430).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Harvard_Square_%2854941166430%29.jpg",
+  "path": "fetch/files/2026-11-22b/Harvard_Square__54941166430_.jpg",
+  "status": "ok",
+  "bytes": 17492554
+ },
+ {
+  "file": "File:Harvard_Square,_February_2022.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Harvard_Square%2C_February_2022.jpg",
+  "path": "fetch/files/2026-11-22b/Harvard_Square__February_2022.jpg",
+  "status": "ok",
+  "bytes": 4545102
+ }
+]
