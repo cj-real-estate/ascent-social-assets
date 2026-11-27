@@ -1,0 +1,65 @@
+[
+ {
+  "file": "File:Sunblossom_Woods_Apartments.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Sunblossom_Woods_Apartments.jpg",
+  "path": "fetch/files/2026-11-27/Sunblossom_Woods_Apartments.jpg",
+  "status": "ok",
+  "bytes": 3856782
+ },
+ {
+  "file": "File:BursaTelAviv-1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/BursaTelAviv-1.jpg",
+  "path": "fetch/files/2026-11-27/BursaTelAviv-1.jpg",
+  "status": "ok",
+  "bytes": 1930388
+ },
+ {
+  "file": "File:Tel_Aviv_Stock_Exchange_-_New_Building_Lobby_2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tel_Aviv_Stock_Exchange_-_New_Building_Lobby_2.jpg",
+  "path": "fetch/files/2026-11-27/Tel_Aviv_Stock_Exchange_-_New_Building_Lobby_2.jpg",
+  "status": "ok",
+  "bytes": 4324870
+ },
+ {
+  "file": "File:Brooklyn_Bridge_Park_td_(2026-01-18)_006_-_Pier_1,_Entrance_Pavilion,_1_Hotel_Brooklyn_Bridge.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Brooklyn_Bridge_Park_td_%282026-01-18%29_006_-_Pier_1%2C_Entrance_Pavilion%2C_1_Hotel_Brooklyn_Bridge.jpg/3000px-Brooklyn_Bridge_Park_td_%282026-01-18%29_006_-_Pier_1%2C_Entrance_Pavilion%2C_1_Hotel_Brooklyn_Bridge.jpg",
+  "path": "fetch/files/2026-11-27/Brooklyn_Bridge_Park_td__2026-01-18__006_-_Pier_1__Entrance_Pavilion__1_Hotel_Brooklyn_Bridge.jpg",
+  "status": "http 400",
+  "bytes": 0
+ },
+ {
+  "file": "File:1_Hotel_Brooklyn_Bridge,_upward_view.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1_Hotel_Brooklyn_Bridge%2C_upward_view.JPG",
+  "path": "fetch/files/2026-11-27/1_Hotel_Brooklyn_Bridge__upward_view.JPG",
+  "status": "ok",
+  "bytes": 7066553
+ },
+ {
+  "file": "File:Hilton_Hotel_-_Portland,_Oregon.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hilton_Hotel_-_Portland%2C_Oregon.JPG",
+  "path": "fetch/files/2026-11-27/Hilton_Hotel_-_Portland__Oregon.JPG",
+  "status": "ok",
+  "bytes": 3136068
+ },
+ {
+  "file": "File:C\u00e9line_Dion._La_Plenitude_Arena,_Par\u00eds._2026._01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/C%C3%A9line_Dion._La_Plenitude_Arena%2C_Par%C3%ADs._2026._01.jpg",
+  "path": "fetch/files/2026-11-27/C_line_Dion._La_Plenitude_Arena__Par_s._2026._01.jpg",
+  "status": "ok",
+  "bytes": 1448050
+ },
+ {
+  "file": "File:C\u00e9line_Dion._La_Plenitude_Arena,_Par\u00eds._2026._03.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/C%C3%A9line_Dion._La_Plenitude_Arena%2C_Par%C3%ADs._2026._03.jpg",
+  "path": "fetch/files/2026-11-27/C_line_Dion._La_Plenitude_Arena__Par_s._2026._03.jpg",
+  "status": "ok",
+  "bytes": 1589430
+ },
+ {
+  "file": "File:Background_music_-_Samedi_d\u00e9confin\u00e9.ogg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Background_music_-_Samedi_d%C3%A9confin%C3%A9.ogg",
+  "path": "fetch/files/2026-11-27/Background_music_-_Samedi_d_confin_.ogg",
+  "status": "ok",
+  "bytes": 1702623
+ }
+]
